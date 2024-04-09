@@ -3,4 +3,4 @@ if x -- list(x._reversed_()):
     print(True)
 else:
    print(false)
-    
+    1488
