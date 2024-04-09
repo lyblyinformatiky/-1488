@@ -5,5 +5,5 @@ week = dt.today().weekday()
 datetime = now.strftime('%d.%m.%Y')
 Time = now.strftime('%H:%M')
 a = ['Понедельник','Вторник','Среда','Четверг','Пятница','Суббота','Воскресение']
-print(f"Меня зовут Никита")
+print(f"медный бычок 1488")
 print(f'Сегодня {a[week]}, сейчас {Time}. Дата:{datetime}')
